@@ -1,8 +1,8 @@
+   # Geography Guesser Game
+
 
 
 **Geography Guesser Game** is an interactive web-based educational game that challenges players to identify countries, cities, landmarks, or locations based on geographical clues such as images, maps, flags, and hints. The game combines learning and entertainment by helping users improve their geography knowledge while competing for high scores through timed challenges and leaderboard rankings.
-
----
 
 ## Features
 
